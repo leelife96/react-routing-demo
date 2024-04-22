@@ -12,6 +12,9 @@ export default function Movies() {
               title={item.title}
               poster_path={item.poster_path}
               vote_average={item.vote_average}
+              release_date={item.release_date}
+              overview={item.overview}
+              genre_ids={item.genre_ids}
             />
           );
         })}
