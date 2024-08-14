@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+## 프로그램 소개
+React.js 로 만든 아주 간단한 개인 프로젝트 입니다. 
+<br>
+2024년 4월 기준으로 대한민국에 상영중인 영화 리스트를 보여주는 웹 페이지 입니다. 
+<br>
+기초적인 React 활용을 할 수 있다는 것을 보여드리기 위한 취지로 구현하게 되었습니다
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 style="color:red">※ 자세한 프로젝트 설명은 이력서에 첨부된 포트폴리오 파일에서 보실 수 있습니다!!</h3>
 
-## Available Scripts
+## 📌 목차
+- [1. 프로그램 주요 기능](#프로그램-주요-기능)
+- [2. 개발환경&기술스택](#개발환경&기술스택)
+- [3. UI-화면](#UI-화면)
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+## 🍀 프로그램 주요 기능
+1. TMDB 오픈 API를 활용하여 상영중인 영화 리스트 띄우기
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🍀 개발환경 & 기술스택
+1. React.js
+2. Vscode
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🍀 UI-화면
+![image](https://github.com/user-attachments/assets/bd9fac82-1b64-4d96-9330-be0cd60dfb65)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/user-attachments/assets/44a2c3b8-88b6-40fa-be74-ae5651e853b4)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
